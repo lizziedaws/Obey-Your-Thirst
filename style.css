@@ -1,0 +1,240 @@
+
+body{
+    background-color: green;
+  }
+  #main-menu{
+      padding-left: 12%;
+      padding-top: 1%;
+  }
+  #main-menu li{
+    color: white;
+    display: inline;
+    padding: 1%;
+    font-family: 'Righteous', cursive;
+  }
+  #main-menu a{
+    color: white;
+    text-decoration: none;
+  }
+  .logo{
+    display: inline;
+    float: left;
+    padding-bottom: 1.5%;
+    padding-left: 1%;
+  }
+  .social-media{
+    display: inline;
+    float: right;
+    padding-right: 2%;
+  }
+  
+  .hero{
+    margin: auto;
+    padding: auto;
+    padding-top: 7%;
+  }
+  
+  .hero img{
+    width: 100%;
+  }
+  
+  .mission{
+    background-color: black;
+    color: white;
+    text-align: center;}
+  
+  .mani-img{
+    padding-top: 3%;
+  } 
+  
+  .mission p{
+    padding: 0 20%;
+    font-size:32px;
+    font-family: 'Righteous', cursive;
+  }
+  .thirsty{
+    width: 100%;
+  }
+  
+  #videos{
+    background-color: white;
+    padding: 3%;
+    float: left;
+    width: 40%;
+    padding-bottom: 4.3%;
+    font-family: 'Righteous', cursive;
+    
+  }
+  h4{
+    padding-top: 0%;
+    padding-bottom: 0%;
+    text-align: left;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0;
+  }
+  .video-one{
+    text-align: center;
+    display: inline;
+  }
+  .p{
+    padding:
+    line-height: 10%;
+  }
+  .hashtag{
+    color: green;
+    font-weight: bold;
+    padding-bottom: 5.5%;
+  }
+  #videos-two{
+    background-color: white;
+    padding: 0%;
+    float: right;
+    padding-top: 1%;
+    width: 50%;
+    padding-left: 4%;
+    padding-bottom: 2%;
+    font-family: 'Righteous', cursive;
+  }
+  .second{
+    padding-top: 3%;
+    padding-bottom: 0%;
+    text-align: left;
+      
+  }
+  .p2{
+    padding: 0%;
+  }
+  
+  .second-video{
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  .hashtag-two{
+    color: green;
+    font-weight: bold;
+    padding-bottom: 0%;
+  }
+  .lemon{
+    width: 100%;
+    padding-top: 0%;
+  }
+  .most-wanted{
+    background-color: green;
+    
+  }
+  .most-wanted a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Righteous', cursive;
+    font-size: 48px;
+    border: solid 2px white;
+    align-text: center;
+  }
+  .bottle{
+    display: inline;
+    float: left;
+  }
+  
+  .sprite-para{
+    margin: 2px 0 100px 0;
+    font-size: 115px;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: white;
+    line-height: 100px;
+  }
+
+  .button{
+    margin: 2px 0 100px 0;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: white;
+    line-height: 100px 0px;
+    border: 1px solid white;
+    display: inline;
+    }
+
+
+.flex-container{
+    display:flex;
+    border: 10px solid black;
+    width: 100%;
+    height: 350px;
+    margin: auto;
+    justify-content: space-around;
+    align-items: stretch;
+    flex-direction: row;
+    background-color: black;
+    padding-top: 0%;
+}
+
+.the-sprite-way{
+    background-color: white;
+    font-family: 'Righteous', cursive;
+    padding-left: 5%;
+    margin-block: auto;
+}
+.sprite-way{
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: green;
+    line-height: 25px;
+    margin-right: 8%;
+}
+.iframe{
+    padding-top: 2%;
+    padding-left: 19%;
+}
+.btn{
+    padding-top: 2%;
+    padding-left: 22%;
+    padding-bottom: 3%;
+    color: white;
+    text-decoration: none;
+}
+#connect{
+  text-align: center;
+  padding-bottom: 0%;
+}
+#connect li{
+    color: white;
+    display: inline;
+    font-family: 'Righteous', cursive;
+    vertical-align: 0%;
+    line-height: 0%;
+    text-decoration: none;
+
+}
+#connect a{
+  color: white;
+  text-decoration: none;
+}
+.idk{
+    padding-left: 0.5%;
+    padding-top: 2%;
+}
+
+
+.header{
+  position: fixed;
+  background-color: green;
+  width: 100%;
+  
+}
+
+.flexy{
+  color: white;
+  text-align: center;
+  font-size: 24px;
+  background-color: black;
+  padding-bottom: 0%;
+  display: table-cell;
+  font-family: 'Righteous', cursive;
+}
+.fw{
+  width: 100%;
+  padding-bottom: 0%;
+}
